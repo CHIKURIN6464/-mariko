@@ -1,2 +1,3 @@
 # marikokyoudan
-mamaririkoko
+mama
+
