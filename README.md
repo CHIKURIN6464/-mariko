@@ -1,2 +1,2 @@
-# -mariko
+# marikokyoudan
 mamaririkoko
